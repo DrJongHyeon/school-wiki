@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <title>덕현고등학교</title>
+  <style>
+    body {
+      background-color: #f9f9f9;
+      font-family: "Noto Sans KR", sans-serif;
+      color: #222;
+      padding: 20px;
+      max-width: 800px;
+      margin: auto;
+    }
+    h1 {
+      border-bottom: 2px solid #ccc;
+      padding-bottom: 10px;
+    }
+    h2 {
+      background-color: #eeeeee;
+      padding: 5px 10px;
+      border-left: 5px solid #00aaff;
+      margin-top: 30px;
+    }
+    .source {
+      font-size: 0.9em;
+      color: gray;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>○○중학교</h1>
+  <p>본 문서는 덕현고등학교의 비공식 정보 문서입니다.</p>
+
+  <h2>1. 개요</h2>
+  <p>덕현고등학교는 경기도 양주시에 소재하고 있는 남녀 공학 공립 일반계 고등학교이다. 남녀합반이며 2011년 3월에 개교하여 2023년 현재 10회 졸업생까지 배출하였다. 총 34학급이며 2025년을 기준으로 1학년 12반, 2학년 10반, 3학년 12반을 운영중이다.</p>
+
+  <h2>2. 위치</h2>
+  <p>덕현고등학교는 만송동에 위치하고 있으며, 근처에 만송초등학교와 덕현중학교 등이 있다.</p>
+
+  <h2>3. 역사</h2>
+  <p>2011년 개교하여 2014년 첫 졸업생을 배출하였으며, 2023년 제6대 교장이 취임하였다.</p>
+
+  <h2>4. 교육 철학 및 교훈</h2>
+  <p>교훈은 "꿈꾸는 대로(大路) 덕현고"이며, 학생들이 올바른 인성을 가진 인재로 성장하도록 지도하고 있다.</p>
+
+  <h2>5. 교가 / 교목 / 교화</h2>
+  <ul>
+    <li><strong>교가:</strong> 이갑원 작사, 조영민 작곡</li>
+    <li><strong>교목:</strong> 은행나무</li>
+    <li><strong>교화:</strong> 장미</li>
+  </ul>
+
+  <h2>6. 기타</h2>
+  <p>2017년 처음으로 미달을 벗어나 평균 입학성적 170, 커트라인 147을 달성하였다. 현재는 다른 양주지역 학교와 비슷한 입학성적을 보유하고 있다.</p>
+
+  <p class="source">출처: 나무위키 일부 참조, 학교 홈페이지, 직접 조사</p>
+
+</body>
+</html>
